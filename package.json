@@ -1,0 +1,16 @@
+{
+  "name": "discord-vendas-bot",
+  "version": "1.0.0",
+  "description": "Bot que envia mensagem de vendas a cada X horas marcando @everyone",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
